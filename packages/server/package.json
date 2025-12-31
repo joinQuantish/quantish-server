@@ -1,6 +1,6 @@
 {
   "name": "@quantish/server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Self-hosted Quantish server - bring your own database, full control",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
