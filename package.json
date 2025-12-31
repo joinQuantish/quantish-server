@@ -4,7 +4,7 @@
   "private": true,
   "description": "Self-hosted Quantish Trading MCP Server for Polymarket",
   "author": "Quantish",
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/joinQuantish/quantish-server"
@@ -25,4 +25,6 @@
   },
   "packageManager": "pnpm@8.15.0"
 }
+
+
 
