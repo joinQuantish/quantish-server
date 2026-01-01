@@ -1,6 +1,6 @@
 {
   "name": "@quantish/server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Self-hosted Quantish server - bring your own database, full control",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -20,7 +20,10 @@
       "require": "./dist/adapters/index.js"
     }
   },
-  "files": ["dist", "README.md"],
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
